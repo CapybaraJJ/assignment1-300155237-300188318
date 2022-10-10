@@ -1,0 +1,37 @@
+Assignment 1 part 1
+Discussion
+
+Design advantages/disadvantages && comparison
+
+TESTS:
+Design 1: Average runtime: ~7740's ms High:7752  Low: 7674ms
+Design 2: Average runtime: ~380's ms High 396ms  Low 368
+Design 3: Average runtime: ~4950's ms for P, high 4987ms Low 4889ms. ~ 50's for C high 77 low 47
+
+
+
+Design 1:  (PointCP2)
+
+Design 1 advantages: 
+Simple to write; 
+Polar coordinates are probably more useful than cartesian when studying dynamic movements especially related to the human body
+
+Disadvantages: 
+Very specific and does not have many features--not very efficient
+
+
+Design 2: (PointCP3) Advantages:
+Simple to write
+Simple calculation 
+not much memory usage
+fast
+
+Disadvantages:
+limited functionality
+
+Design 3: (PointCP5) advantages:
+More agile
+simplifies the original DesignCP program into easier to maintain modules
+
+Disadvantages:
+More memory consumption
